@@ -1,6 +1,6 @@
 ### Hi there 👋
 
-Final year Software Development Student
+Software Engineer
 
 
 
